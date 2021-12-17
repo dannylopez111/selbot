@@ -85,3 +85,9 @@ TweetCooldown = 30
 
 # Enter the Account cooldown in minutes. A new account will not be used until the cooldown has passed.
 AccountSwitchCooldown = 120
+
+# Time it waits to load up the content in seconds
+LoadingTime = 10
+
+# Time it waits before clicking it so it's not instantaneous
+WaitTime = 2
